@@ -4,9 +4,9 @@ using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
-using StudentExercisesEF2.Models;
+using StudentExercisesEF.Models;
 
-namespace StudentExercisesEF2.Controllers
+namespace StudentExercisesEF.Controllers
 {
     public class HomeController : Controller
     {
